@@ -1,0 +1,46 @@
+                                             INTRODUCTION OF PYTHON
+    > It was created by Gudio van Rossum, in the year 1991
+    > Python is a High Level,interpreted and Object Oriented Programming Language
+    
+    
+                                             WHAT IS PROGRAMMING LANGUAGE?
+    > A programming languages allow us to give instructions to a computer in a language the computer can understands
+    > They are divided into 2 types
+              1.High Level Programming Language.
+              2.Low  Level Programming Language.
+              
+     1) High Level Programming Language
+        .It is a friendly programming language
+        .it can easy understand by the programmer
+        .it is simple to maintain and debug
+        .it needs a complier or interpreter  for translation
+        
+     2) Low Level Programming Language
+        .It is Machine Language (instructions will be in the form of 0's and 1's       
+        .It is hard to under stand for a programmer but it can understood by the computer
+        .It is complex to debug comparatively.
+                                 
+         PYTHON>>>> OBJECT ORIENTED PROGRAMMING
+            >> IT IS CALLED AS "INTERPRETED LANGUAGE"
+            >> PYTHON DOESNT CONVERT CODE MACHINE CODE TO
+            >> IT CONVERT THE PROGRAM CODE TO[BYTE CODE]                     
+            >>>> FOR CONVERT BYTE CODE WE NEED AN INTERPRETER TO DO THIS
+            >>>> THE INTERPERTER ID "PYTHON VIRTUAL MACHINE"                     
+                                 
+         >>>PYTHON CODE-->>SYSTEM CHECKER&TRANSLATOR-->>BYTECODE(input)-->> PYTHON VIRTUAL MACHINE-->>OUTPUT                    
+                                 
+         >> WHAT PYTHON CAN DO
+            1) Python can use to create web application
+            2) python is used to for a software to create workflows
+            3) It can connect to database
+            4) It can used for big data and perform complex mathematics
+                                 
+                                 
+          >> WHY PYTHON
+            1) It is easily understood 
+            2) It has a simple syntax like same as English
+            3) It is used for writing a fewer lines of code
+            4) Many of libaries and frameworks that use for coding and save time
+           
+                                 
+                                 
